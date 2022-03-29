@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Const_y_referencia_en_c__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Const_y_referencia_en_c__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Const_y_referencia_en_c__-Debug-1fc992659fcf24979e11.json",
+					"name" : "Const_y_referencia_en_c__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/UNIVERSIDAD/Tercer semestre/Progr.Orientada a Objetos/Const y referencia en c++/cmake-build-debug",
+		"source" : "E:/UNIVERSIDAD/Tercer semestre/Progr.Orientada a Objetos/Const y referencia en c++"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
