@@ -1,3 +1,0 @@
-E:/UNIVERSIDAD/Tercer semestre/Progr.Orientada a Objetos/Const y referencia en c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-E:/UNIVERSIDAD/Tercer semestre/Progr.Orientada a Objetos/Const y referencia en c++/cmake-build-debug/CMakeFiles/Const_y_referencia_en_c__.dir
-E:/UNIVERSIDAD/Tercer semestre/Progr.Orientada a Objetos/Const y referencia en c++/cmake-build-debug/CMakeFiles/edit_cache.dir
