@@ -1,7 +1,3 @@
-//
-// Created by sebas on 29/03/2022.
-//
-
 #ifndef EJERCICIO_CLASE_DAILYEMPLOYEE_H
 #define EJERCICIO_CLASE_DAILYEMPLOYEE_H
 
@@ -15,11 +11,12 @@ public:
     DailyEmployee(const string &, const string &, const string &, int workedDays, double dailyWage );
     virtual double earnings() const;
     virtual void print() const;
+    void setWorkedDays( int );
+    void setDailyWage( double );
+    int getWorkedDays() const;
+    double getDailyWage() const;
 
 private:
-    string firstName;
-    string lastName;
-    string socialSecurityNumber;
     int workedDays;
     double dailyWage;
 };

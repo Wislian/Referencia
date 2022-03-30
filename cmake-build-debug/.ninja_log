@@ -1,0 +1,27 @@
+# ninja log v5
+52	1682	6703595381945433	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/DailyEmployee.cpp.obj	dd742c6b14bb9695
+45	1894	6703595392345401	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/SalariedEmployee.cpp.obj	a9b4a02cb6c416a0
+29	1930	6703595392482666	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/HourlyEmployee.cpp.obj	691206f6d096220
+40	1967	6703595393503982	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/Employee.cpp.obj	7a8d578c74dc9ac4
+58	1974	6703595393564131	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/BasePlusCommissionEmployee.cpp.obj	33ce952184931460
+34	1986	6703595393696820	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/CommissionEmployee.cpp.obj	3a8cd69455d870eb
+1	2012	6703595393943286	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+2013	2489	6703595398370700	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+3	3477	6703617605326931	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+6	2024	6703620189306094	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/DailyEmployee.cpp.obj	dd742c6b14bb9695
+2026	3120	6703620200006909	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+6	1534	6703621365259778	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+1535	2607	6703621375874846	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+8	1514	6703622119313776	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+1515	2506	6703622129044910	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+27	649	6703715803423309	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/DailyEmployee.cpp.obj	dd742c6b14bb9695
+1	764	6703715804672998	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+857	1018	6703715807172725	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+2	445	6703716767086318	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+445	589	6703716768492179	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+2	464	6703716911636655	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+464	611	6703716913042597	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+1	483	6703718647221959	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+483	669	6703718649096507	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
+1	464	6703721323357765	CMakeFiles/HerenciaPolmorfismoEmpleados.dir/main.cpp.obj	ebef9796c2528b20
+464	2486	6703721343471089	HerenciaPolmorfismoEmpleados.exe	5116517681ad98b0
